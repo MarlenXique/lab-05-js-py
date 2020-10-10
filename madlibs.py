@@ -1,0 +1,12 @@
+noun = input("Enter a noun")
+adjective = input("Enter an adjective")
+adverb = input("Enter adverb")
+verb = input("enter verb")
+print("On a tropical " + (noun) + ", ")
+print("underneth a " + (adjective) + " lava moon" + ".  ")
+print("Hangin' with the " + (adverb) + " dancers, ")
+print((verb) + " question cause they got all the answers.")
+print("On a tropical " + (noun) + ", ");
+print("underneth a " + (adjective) + " lava moon" + ".  ")
+print("Hangin' with the " + (adverb) + " dancers, ")
+print((verb) + " question cause they got all the answers.")
